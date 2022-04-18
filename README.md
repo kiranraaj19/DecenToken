@@ -1,7 +1,7 @@
 
 # **Decentoken**
 
-A Polygon + Crust webapp that lets you mint a IFPS asset stored in crust decentralized storage. 
+A web app that lets you seamlessly upload NFTS to a decentralized storage called Crust and gives you the ability to mint it to Polygon blockchain!
 
 **UI of WebAPP:**
 
@@ -17,6 +17,11 @@ Steps:
 * Put Name and Description
 
 * Click on mint NFT, and VOILA, your nft is now on blockchain with the least GAS FEES POSSIBLE!
+
+### Things to be careful of:
+
+- Start the servers together
+- Set crust wallet and metamask wallet and have balance in it
 
 ## Visit website now: 
 [Studify](https://studify-project.herokuapp.com/#).
