@@ -5,7 +5,8 @@ A Polygon + Crust webapp that lets you mint a IFPS asset stored in crust decentr
 
 **UI of WebAPP:**
 
-![github](https://user-images.githubusercontent.com/39441413/162879709-810575ce-7164-4d81-9aab-4d0113043674.jpeg)
+![Screenshot from 2022-04-18 16-34-54](https://user-images.githubusercontent.com/39441413/163799848-c1f7478b-21bb-4b48-ab80-2633e0a7e1e8.png)
+
 
 Steps:
 
