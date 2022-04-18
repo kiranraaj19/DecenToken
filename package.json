@@ -2,7 +2,7 @@
   "name": "nft-minter",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://decentoken-app.herokuapp.com/",
   "dependencies": {
     "@alch/alchemy-web3": "^1.0.1",
     "@crustio/type-definitions": "^1.2.0",
@@ -27,7 +27,7 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "start": "node app.js",
+    "start": "node app",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
