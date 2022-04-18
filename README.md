@@ -20,7 +20,6 @@ Steps:
 
 ### Things to be careful of:
 
-- Start the servers together
 - Set crust wallet and metamask wallet and have balance in it
 
 ## Visit website now: 
