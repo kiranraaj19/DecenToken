@@ -18,5 +18,5 @@ Steps:
 
 * Click on mint NFT, and VOILA, your nft is now on blockchain with the least GAS FEES POSSIBLE!
 
-
-
+## Visit website now: 
+[Studify](https://studify-project.herokuapp.com/#).
