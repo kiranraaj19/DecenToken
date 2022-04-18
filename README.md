@@ -24,4 +24,4 @@ Steps:
 - Set crust wallet and metamask wallet and have balance in it
 
 ## Visit website now: 
-[Studify](https://studify-project.herokuapp.com/#).
+[DecenToken](https://decentoken-app.herokuapp.com/).
