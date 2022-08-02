@@ -24,3 +24,7 @@ Steps:
 
 ## Visit website now: 
 [DecenToken](https://decentoken-app.herokuapp.com/).
+
+---
+## Video
+[Video explaining the overview of code and application](https://drive.google.com/file/d/1A9pi3vs1VkfBPkmTZpJ9p-Z3zLnrmYkM/view)
